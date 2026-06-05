@@ -24,7 +24,7 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
     weight: '250g',
     caffeine: product.category === 'Robusta' ? 'High' : 'Medium',
     roastDate: 'Fresh roasted weekly',
-    farmName: 'Chick Brew Coffee Collective',
+    farmName: 'chikbrew Coffee Collective',
     altitude: product.category === 'Arabica' ? '1500-1800m' : '900-1200m',
   }
 

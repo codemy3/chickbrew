@@ -7,7 +7,7 @@ import USPSection from '@/components/USPSection';
 import ProcessSection from '@/components/ProcessSection';
 import CoffeeTypesSection from '@/components/CoffeeTypesSection';
 import Statement from '@/components/Statement';
-import Footer from '@/components/Footer'; // Consolidated Footer
+import Footer from '@/components/Footer'; 
 import { Mail, Phone, ArrowRight, Clock } from 'lucide-react';
 import Link from 'next/link';
 
@@ -72,7 +72,7 @@ export default function Home() {
             <div>
               <span className="font-mono text-[10px] uppercase tracking-[0.4em] text-[#8C5E3C] mb-6 block">Correspondence</span>
               <h2 className="text-4xl md:text-5xl font-serif font-black text-[#2C1810] mb-8 leading-tight">
-                Send a note to <br/>Chick Brew.
+                Send a note to <br/>chikbrew.
               </h2>
               <p className="text-[#6F4E37] leading-relaxed mb-10 font-light italic">
                 Whether you seek a bespoke roast or require assistance with your order, our master roasters are at your service.
@@ -80,9 +80,9 @@ export default function Home() {
             </div>
 
             <div className="space-y-6">
-              <a href="mailto:gowdapartha61@gmail.com" className="flex items-center gap-4 text-[#2C1810] hover:text-[#8C5E3C] transition-colors border-b border-[#8C5E3C]/10 pb-4">
+              <a href="mailto:chikbrew.in@gmail.com" className="flex items-center gap-4 text-[#2C1810] hover:text-[#8C5E3C] transition-colors border-b border-[#8C5E3C]/10 pb-4">
                 <Mail size={20} className="text-[#8C5E3C]" />
-                <span className="font-mono text-sm tracking-widest uppercase">gowdapartha61@gmail.com</span>
+                <span className="font-mono text-sm tracking-widest uppercase">chikbrew.in@gmail.com</span>
               </a>
               <a href="tel:6362194698" className="flex items-center gap-4 text-[#2C1810] hover:text-[#8C5E3C] transition-colors border-b border-[#8C5E3C]/10 pb-4">
                 <Phone size={20} className="text-[#8C5E3C]" />

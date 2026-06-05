@@ -33,10 +33,10 @@ export default function Navbar() {
             {/* Logo */}
             <Link href="/" className="flex items-center gap-3">
               <motion.div whileHover={{ rotate: 10 }}>
-                <Image src="/images/logo.png" alt="Chick Brew" width={44} height={44} className="rounded-full" />
+                <Image src="/images/logo.png" alt="chikbrew" width={44} height={44} className="rounded-full" />
               </motion.div>
               <div className="hidden sm:block">
-                <h1 className="text-xl font-serif font-black text-[#2C1810] leading-none">Chick Brew</h1>
+                <h1 className="text-xl font-serif font-black text-[#2C1810] leading-none">chikbrew</h1>
                 <p className="text-[10px] font-mono tracking-widest uppercase text-[#8C5E3C]">Premium Coffee</p>
               </div>
             </Link>

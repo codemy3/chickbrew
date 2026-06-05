@@ -6,12 +6,12 @@ import Providers from './providers'
 import FloatingActionButton from '@/components/FloatingActionButton'
 
 export const metadata: Metadata = {
-  title: 'Chick Brew - Premium Coffee | Direct from Farms',
+  title: 'chikbrew - Premium Coffee | Direct from Farms',
   description: 'Experience authentic, premium coffee sourced directly from sustainable farms. Arabica, Robusta, and signature blends crafted for coffee lovers.',
   keywords: ['coffee', 'premium coffee', 'arabica', 'robusta', 'specialty coffee'],
-  authors: [{ name: 'Chick Brew' }],
+  authors: [{ name: 'chikbrew' }],
   openGraph: {
-    title: 'Chick Brew - Premium Coffee',
+    title: 'chikbrew - Premium Coffee',
     description: 'Experience authentic, premium coffee sourced directly from sustainable farms.',
     type: 'website',
   },

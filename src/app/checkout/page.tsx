@@ -64,9 +64,9 @@ export default function CheckoutPage() {
   };
 
   const handleEmailOrder = () => {
-    const subject = encodeURIComponent('Chick Brew Order Request');
+    const subject = encodeURIComponent('chikbrew Order Request');
     const body = encodeURIComponent(buildOrderMessage());
-    window.location.href = `mailto:gowdapartha61@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:chikbrew.in@gmail.com?subject=${subject}&body=${body}`;
   };
 
   if (items.length === 0) {

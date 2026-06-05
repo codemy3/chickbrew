@@ -16,7 +16,7 @@ export default function AboutPage() {
               transition={{ duration: 0.8 }}
             >
               <h1 className="text-5xl font-serif font-bold mb-4">
-                The Story of Chick Brew
+                The Story of chikbrew
               </h1>
               <p className="text-xl text-cream/90">
                 From farm to cup, a journey of passion, quality, and sustainability
@@ -36,7 +36,7 @@ export default function AboutPage() {
           >
             <h2 className="heading-lg mb-6 text-coffee-900">Our Mission</h2>
             <p className="text-lg text-coffee-700 leading-relaxed mb-4">
-              At Chick Brew, we believe in bringing authentic, premium coffee directly
+              At chikbrew, we believe in bringing authentic, premium coffee directly
               from sustainable farms to your cup. We eliminate unnecessary intermediaries
               to ensure you get the freshest, highest-quality coffee while supporting
               farmers fairly.
@@ -62,7 +62,7 @@ export default function AboutPage() {
               just a fraction of what customers paid. This gap bothered us.
             </p>
             <p className="text-lg text-coffee-700 leading-relaxed">
-              Chick Brew was born to bridge this gap. We partner directly with coffee
+              chikbrew was born to bridge this gap. We partner directly with coffee
               farms, carefully select the finest beans, and deliver them to you with
               stories of their origins and the farmers behind them.
             </p>

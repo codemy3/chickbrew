@@ -158,7 +158,7 @@ export default function HeroSection() {
             WebkitTextStroke: '2px var(--theme-outline)'
           }}
         >
-          CHICK BREW
+          CHIKBREW
         </div>
         
         {/* === CENTERED TYPOGRAPHY === */}

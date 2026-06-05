@@ -80,10 +80,10 @@ export default function ContactPage() {
                     <h3 className="font-bold text-coffee-900 mb-1">Email</h3>
                     <p className="text-coffee-700">
                       <a
-                        href="mailto:gowdapartha61@gmail.com"
+                        href="mailto:chikbrew.in@gmail.com"
                         className="hover:text-coffee-900"
                       >
-                        gowdapartha61@gmail.com
+                        chikbrew.in@gmail.com
                       </a>
                     </p>
                   </div>

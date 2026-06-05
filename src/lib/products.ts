@@ -54,7 +54,7 @@ export const products: Product[] = [
     category: 'Blend',
     roastLevel: 'Light',
     tasteNotes: ['Toffee', 'Nutty', 'Soft Spice'],
-    origin: 'Chick Brew House Blend',
+    origin: 'chikbrew House Blend',
     image: '/hero/custom.png',
     weight: 250,
     stock: 45,

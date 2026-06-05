@@ -56,7 +56,7 @@ export default function WhyChooseUs() {
             Our Philosophy
           </span>
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-serif font-black text-[#2C1810] mb-6">
-            The Chick Brew <span className="italic font-light">Standard</span>
+            The chikbrew <span className="italic font-light">Standard</span>
           </h2>
           <div className="w-16 h-px bg-[#2C1810] mx-auto" />
         </motion.div>
